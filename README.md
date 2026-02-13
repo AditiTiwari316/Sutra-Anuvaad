@@ -1,6 +1,5 @@
 # 📜 Sutra-Anuvaad: AI-Powered Historical Land Record Decipherer
 **Track:** AI for Communities, Access & Public Impact  
-**Submission for:** AI for Bharat (Hack2Skill)
 
 ---
 
